@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Akhilesh Yadav
-**Data Scientist | Machine Learning | Analytics Professional**
+**Data Scientist | Machine Learning  | Deep Learning | NLP | Analytics Professional**
 
 #### About Me:
 I am a data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making. With a background in mathematics, I specialize in developing predictive models and deriving actionable insights from complex datasets. My expertise spans across various domains including spam detection, real estate price prediction, and recommendation systems.
