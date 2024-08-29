@@ -5,7 +5,7 @@
 I am a data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making. With a background in mathematics, I specialize in developing predictive models and deriving actionable insights from complex datasets. My expertise spans across various domains including spam detection, real estate price prediction, and recommendation systems.
 
 ##### Reach me on 📫 :
-- **Email:** [akhileshyadav.maths@gmail.com](mailto:akhileshyadav.maths@gmail.com) 📧
+- **Email:** [akhileshyadav.maths@gmail.com](mailto:yadavakhi1508@gmail.com) 📧
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/akhilesh-yadav) 💼
 
 #### My GitHub stats :
