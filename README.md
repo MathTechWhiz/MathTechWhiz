@@ -6,7 +6,7 @@ I am a data scientist with a strong foundation in machine learning, statistical 
 
 ##### Reach me on 📫 :
 - **Email:** [yadavakhi1508@gmail.com](mailto:yadavakhi1508@gmail.com) 📧
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/akhilesh-yadav) 💼
+- **LinkedIn:** [My Profile](www.linkedin.com/in/akhileshyadav1598) 💼
 
 #### My GitHub stats :
 ![GitHub stats1](https://github-readme-stats.vercel.app/api?username=MathTechWhiz)
