@@ -15,29 +15,22 @@ I am a data scientist with a strong foundation in machine learning, statistical 
 
 ![GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=MathTechWhiz)
 
-### **Technical Skills:**
-- **Programming Languages:** Python, R, SQL
-- **Data Manipulation:** Pandas, NumPy, Dask
-- **Machine Learning Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
-- **Statistical Analysis:** SciPy, Statsmodels, R (ggplot2, dplyr)
-- **Big Data Technologies:** Hadoop, Spark, Hive, Kafka
-- **Databases:** MySQL, PostgreSQL, MongoDB, Azure SQL, Google BigQuery
-- **Cloud Platforms:** AWS (SageMaker, Redshift), Google Cloud (BigQuery, AutoML), Azure (Machine Learning Studio)
-- **Deep Learning:** CNN, RNN, LSTM, GANs
-- **Natural Language Processing (NLP):** NLTK, SpaCy, BERT, GPT
-- **Data Wrangling & Preprocessing:** Feature Engineering, Data Cleaning, Dimensionality Reduction (PCA, LDA)
-- **Model Deployment:** Flask, Streamlit, Docker, Render, Heroku
-- **Version Control:** Git, GitHub, Bitbucket
-- **Development Environments:** Jupyter, PyCharm, VS Code, RStudio
+### **Technical Skills**
+
+- **Programming Languages:** Python, R, SQL, C++
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, Natural Language Processing (NLP)
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+- **Big Data & Cloud Technologies:** Hadoop, Spark, AWS
+- **Databases:** MySQL, PostgreSQL
+- **MLOps & Deployment:** Docker, Kubernetes, CI/CD
+- **Tools:** Git, GitHub, Jupyter, PyCharm, VS Code, Streamlit, Flask
 
 ### **Soft Skills:**
 - Problem Solving
 - Analytical Thinking
-- Communication and Storytelling
-- Collaboration and Teamwork
-- Time Management
-- Attention to Detail
+- Communication
+- Collaboration
+
 
 
 - 🔭 **Currently Working On:** Data Science and Machine Learning.
